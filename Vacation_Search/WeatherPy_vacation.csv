@@ -1,233 +1,233 @@
-Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-6,Atuona,PF,79.56,clear sky,-9.8,-139.0333,
-14,Coahuayana,MX,86.86,broken clouds,18.7333,-103.6833,
-19,Hithadhoo,MV,83.71,few clouds,-0.6,73.0833,
-21,Faanui,PF,79.84,overcast clouds,-16.4833,-151.75,
-23,Avarua,CK,78.85,broken clouds,-21.2078,-159.775,
-26,Trairi,BR,77.45,clear sky,-3.2778,-39.2689,
-30,Rikitea,PF,75.34,overcast clouds,-23.1203,-134.9692,
-31,Ishigaki,JP,80.73,broken clouds,24.3448,124.1572,
-36,Vung Tau,VN,82.4,scattered clouds,10.345999999999998,107.0843,
-38,Morant Bay,JM,83.82,broken clouds,17.8815,-76.4093,
-42,Pandan,PH,84.99,overcast clouds,14.0453,124.1694,
-53,Gat,IL,81.39,clear sky,31.61,34.7642,
-60,Kapaa,US,84.52,clear sky,22.0752,-159.319,
-70,Tamandare,BR,75.4,light rain,-8.7597,-35.1047,
-73,Juazeiro,BR,75.38,light rain,-9.4117,-40.4986,
-75,Ambulu,ID,77.31,overcast clouds,-8.345,113.6058,
-78,Puerto Penasco,MX,76.91,clear sky,31.3167,-113.5333,
-81,Sitamau,IN,81.75,few clouds,24.0167,75.35,
-82,Georgetown,MY,80.89,few clouds,5.4112,100.3354,
-86,Hajipur,IN,75.18,scattered clouds,25.6833,85.2167,
-92,Anta,IN,90.82,scattered clouds,25.15,76.3,
-100,Dingle,PH,83.32,broken clouds,10.9995,122.6711,
-101,Ankang,CN,82.65,overcast clouds,32.68,109.0172,
-105,Araouane,ML,94.5,clear sky,18.9048,-3.5265,
-106,Simpang,ID,75.49,broken clouds,-1.2667,104.0833,
-112,Phan Thiet,VN,82.87,few clouds,10.9333,108.1,
-115,Tahta,EG,82.72,scattered clouds,26.7693,31.5021,
-119,Veraval,IN,82.65,scattered clouds,20.9,70.3667,
-122,Nakusp,CA,78.48,overcast clouds,50.2499,-117.8023,
-129,Hilo,US,87.28,few clouds,19.7297,-155.09,
-134,Jalu,LY,81.32,clear sky,29.0331,21.5482,
-137,Ende,ID,79.07,overcast clouds,-8.8432,121.6623,
-142,Epe,NG,78.62,overcast clouds,6.5841,3.9834,
-143,Smoky Lake,CA,77.16,broken clouds,54.1169,-112.4686,
-145,Bandarbeyla,SO,78.8,overcast clouds,9.4942,50.8122,
-146,Kavieng,PG,82.6,moderate rain,-2.5744,150.7967,
-150,Isangel,VU,77.11,broken clouds,-19.55,169.2667,
-152,Lorengau,PG,82.24,light rain,-2.0226,147.2712,
-153,Gilbues,BR,75.06,scattered clouds,-9.8317,-45.3439,
-157,Ahmadpur East,PK,91.51,clear sky,29.1431,71.2598,
-159,Rio Branco,BR,79.41,scattered clouds,-9.9747,-67.81,
-164,Baghdad,IQ,87.28,few clouds,33.3406,44.4009,
-167,Yurimaguas,PE,80.1,overcast clouds,-5.9,-76.0833,
-168,Avera,US,76.66,clear sky,33.194,-82.5271,
-173,Gazanjyk,TM,79.81,clear sky,39.2446,55.5154,
-174,Puerto Cabello,VE,78.84,scattered clouds,10.4731,-68.0125,
-180,Victoria,HK,86.97,overcast clouds,22.2855,114.1577,
-181,Lamu,KE,77.22,scattered clouds,-2.2717,40.902,
-184,Nhulunbuy,AU,75.81,broken clouds,-12.2333,136.7667,
-189,Iquitos,PE,80.64,light rain,-3.7481,-73.2472,
-192,Omboue,GA,76.42,overcast clouds,-1.5746,9.2618,
-196,Dawei,MM,78.46,overcast clouds,14.0833,98.2,
-203,Tutoia,BR,78.98,few clouds,-2.7619,-42.2744,
-204,Katobu,ID,79.88,broken clouds,-4.9408,122.5276,
-205,Zhob,PK,77.92,clear sky,31.3411,69.4481,
-207,Gamba,GA,76.14,overcast clouds,-2.65,10.0,
-208,Mana,GF,77.7,overcast clouds,5.6592,-53.7767,
-210,West Wendover,US,81.61,clear sky,40.7391,-114.0733,
-217,Canton,CN,84.94,overcast clouds,23.1167,113.25,
-219,Mayumba,GA,76.41,overcast clouds,-3.432,10.6554,
-221,Champerico,GT,85.35,scattered clouds,14.3,-91.9167,
-223,Butaritari,KI,83.07,light rain,3.0707,172.7902,
-224,Mandera,KE,77.52,broken clouds,3.9366,41.867,
-226,Loralai,PK,78.8,scattered clouds,30.3705,68.598,
-228,Barinas,VE,87.84,scattered clouds,8.6226,-70.2075,
-234,Weligama,LK,80.1,overcast clouds,5.9667,80.4167,
-237,Cayenne,GF,80.1,clear sky,4.9333,-52.3333,
-239,San Policarpo,PH,82.4,overcast clouds,12.1791,125.5072,
-242,Garcia Hernandez,PH,80.92,heavy intensity rain,9.6144,124.2946,
-243,Paoua,CF,78.19,broken clouds,7.2427,16.4406,
-246,Jeremie,HT,79.97,few clouds,18.65,-74.1167,
-250,Alta Floresta,BR,75.02,clear sky,-9.8756,-56.0861,
-251,Zihuatanejo,MX,86.05,few clouds,17.6333,-101.55,
-252,Tangping,CN,89.11,overcast clouds,22.0265,111.9323,
-254,Chiang Khong,TH,75.52,moderate rain,20.2613,100.4046,
-257,Maragogi,BR,75.15,scattered clouds,-9.0122,-35.2225,
-258,Puerto Cabezas,NI,85.96,scattered clouds,14.0351,-83.3888,
-262,Cabo San Lucas,MX,98.51,clear sky,22.8909,-109.9124,
-263,Portland,US,85.84,broken clouds,45.5234,-122.6762,
-266,Sabha,LY,85.14,clear sky,27.0377,14.4283,
-267,Hirara,JP,80.46,broken clouds,24.8,125.2833,
-271,Dalbandin,PK,85.28,clear sky,28.8947,64.4101,
-276,Sur,OM,90.41,overcast clouds,22.5667,59.5289,
-277,Cockburn Town,TC,80.56,scattered clouds,21.4612,-71.1419,
-286,Sola,VU,77.67,overcast clouds,-13.8833,167.55,
-287,Nago,JP,77.07,overcast clouds,26.5881,127.9761,
-292,Fortuna,US,84.18,broken clouds,40.5982,-124.1573,
-298,Frontera,MX,88.95,broken clouds,26.9333,-101.45,
-301,Riyadh,SA,91.45,clear sky,24.6877,46.7219,
-302,Huilong,CN,75.04,overcast clouds,31.8111,121.655,
-305,Suining,CN,76.86,overcast clouds,30.508000000000003,105.5733,
-308,Manado,ID,79.57,scattered clouds,1.4869999999999999,124.8455,
-310,Shache,CN,75.96,overcast clouds,38.4167,77.2406,
-313,Bathsheba,BB,81.21,scattered clouds,13.2167,-59.5167,
-316,Leticia,CO,77.05,light rain,-4.2153,-69.9406,
-317,Sao Jose Da Coroa Grande,BR,75.6,light rain,-8.8978,-35.1478,
-326,High Rock,BS,82.42,scattered clouds,26.6208,-78.2833,
-327,Buraydah,SA,93.65,few clouds,26.326,43.975,
-329,Rosetta,EG,76.82,clear sky,31.4044,30.4164,
-331,Lompoc,US,82.02,clear sky,34.6391,-120.4579,
-336,San Jose,US,99.27,few clouds,37.3394,-121.895,
-340,Soure,BR,78.62,few clouds,-0.7167,-48.5233,
-341,Luba,GQ,80.49,moderate rain,3.4568,8.5547,
-342,Auki,SB,84.49,broken clouds,-8.7676,160.7034,
-347,Morgan City,US,80.98,broken clouds,29.6994,-91.2068,
-351,Pasuruan,ID,78.69,broken clouds,-7.6453,112.9075,
-353,Macheng,CN,77.68,overcast clouds,31.1783,115.0319,
-355,Tala,EG,77.36,clear sky,30.6803,30.9429,
-357,Grand-Bourg,GP,80.55,clear sky,15.8835,-61.3148,
-358,Arraial Do Cabo,BR,75.06,heavy intensity rain,-22.9661,-42.0278,
-359,Nabire,ID,80.94,overcast clouds,-3.3667,135.4833,
-361,Tual,ID,81.61,overcast clouds,-5.6667,132.75,
-370,Isla Vista,US,82.26,clear sky,34.4133,-119.861,
-371,Abu Kamal,SY,79.36,scattered clouds,34.4506,40.9171,
-372,Robertsport,LR,79.81,moderate rain,6.7533,-11.3686,
-375,Canutama,BR,80.94,overcast clouds,-6.5339,-64.3831,
-384,Dzilam Gonzalez,MX,76.77,broken clouds,21.2833,-88.9333,
-387,Alexandria,EG,79.34,clear sky,31.2156,29.9553,
-393,Palauig,PH,86.09,few clouds,15.435,119.9045,
-395,Kavaratti,IN,82.4,overcast clouds,10.5669,72.642,
-397,Haikou,CN,84.33,light rain,20.0458,110.3417,
-399,Wamba,NG,79.14,scattered clouds,8.9333,8.6,
-403,Do Gonbadan,IR,75.29,clear sky,30.3586,50.7981,
-404,Chinchani,IN,83.28,broken clouds,19.8667,72.7,
-409,Durango,MX,86.61,broken clouds,24.8333,-104.8333,
-411,Rudbar,AF,84.06,clear sky,30.15,62.6,
-414,Makakilo City,US,83.95,broken clouds,21.3469,-158.0858,
-416,Matara,LK,79.84,overcast clouds,5.9485,80.5353,
-424,Abeche,TD,86.11,broken clouds,13.8292,20.8324,
-425,Batticaloa,LK,79.5,broken clouds,7.7102,81.6924,
-426,Kutum,SD,83.35,overcast clouds,14.2,24.6667,
-427,Mogadishu,SO,78.21,broken clouds,2.0371,45.3438,
-431,Waw,SS,77.99,few clouds,7.7029,27.9953,
-434,Salalah,OM,80.24,overcast clouds,17.0151,54.0924,
-438,Pontianak,ID,75.18,scattered clouds,-0.0333,109.3333,
-439,Winder,US,76.14,scattered clouds,33.9926,-83.7202,
-440,Mongo,TD,89.04,clear sky,12.1844,18.692999999999998,
-442,Bonthe,SL,78.89,light rain,7.5264,-12.505,
-443,Kupang,ID,77.58,scattered clouds,-10.1667,123.5833,
-444,Tautira,PF,82.42,overcast clouds,-17.7333,-149.15,
-445,Namatanai,PG,84.06,light rain,-3.6667,152.4333,
-446,Altamira,BR,77.25,scattered clouds,-3.2033,-52.2064,
-454,Gainesville,US,87.67,overcast clouds,29.6516,-82.3248,
-456,Pochutla,MX,80.82,broken clouds,15.7432,-96.4661,
-461,Sinjar,IQ,75.99,clear sky,36.3209,41.8754,
-464,Jucurutu,BR,80.55,broken clouds,-6.0339,-37.0203,
-465,Adre,TD,84.33,broken clouds,13.4667,22.2,
-468,San Cristobal,VE,75.38,scattered clouds,7.7669,-72.225,
-469,Mitsamiouli,KM,78.48,light rain,-11.3847,43.2844,
-470,Adrar,MR,87.84,overcast clouds,20.5022,-10.0711,
-473,Tucurui,BR,80.58,broken clouds,-3.7661,-49.6725,
-477,Cortez,US,82.51,scattered clouds,37.3489,-108.5859,
-481,Bushehr,IR,85.15,clear sky,28.9684,50.8385,
-482,Labuhan,ID,78.78,light rain,-6.8844,112.2051,
-483,Axim,GH,78.53,moderate rain,4.8699,-2.2405,
-484,Hobyo,SO,78.44,broken clouds,5.3505,48.5268,
-485,Paraopeba,BR,76.35,overcast clouds,-19.2757,-44.4033,
-486,Paragominas,BR,79.02,overcast clouds,-2.9667,-47.4833,
-488,Moose Factory,CA,77.0,clear sky,51.2585,-80.6094,
-491,Saint George,US,95.47,clear sky,37.1041,-113.5841,
-492,Raymondville,US,87.6,broken clouds,26.4815,-97.7831,
-494,Mersing,MY,76.91,broken clouds,2.4312,103.8405,
-496,Hurghada,EG,78.84,clear sky,27.2574,33.8129,
-500,Ambagarh Chauki,IN,84.96,few clouds,20.7833,80.7167,
-505,Ahuimanu,US,85.14,scattered clouds,21.4447,-157.8378,
-511,Sao Tome,ST,79.36,overcast clouds,0.3365,6.7273,
-512,Tabuk,PH,84.38,broken clouds,17.4189,121.4443,
-516,Kudahuvadhoo,MV,83.61,scattered clouds,2.6708,72.8944,
-525,Srivardhan,IN,82.08,overcast clouds,18.0333,73.0167,
-528,Touros,BR,77.9,broken clouds,-5.1989,-35.4608,
-531,San Patricio,US,84.88,scattered clouds,28.017,-97.5169,
-534,Kidal,ML,92.05,broken clouds,18.4411,1.4078,
-536,Kokoda,PG,81.81,overcast clouds,-8.8785,147.7407,
-538,Bilma,NE,88.99,broken clouds,18.6853,12.9164,
-539,Kalmunai,LK,79.45,broken clouds,7.4167,81.8167,
-541,Lazaro Cardenas,MX,85.21,broken clouds,17.9583,-102.2,
-544,Alofi,NU,84.09,light rain,-19.0595,-169.9187,
-550,Atar,MR,91.38,broken clouds,20.5169,-13.0499,
-557,Aquiraz,BR,82.18,few clouds,-3.9014,-38.3911,
-559,Sorong,ID,79.23,overcast clouds,-0.8833,131.25,
-561,Barsi,IN,79.48,broken clouds,18.2333,75.7,
-562,Elko,US,77.05,clear sky,41.0002,-115.5012,
-568,Jhargram,IN,82.92,scattered clouds,22.45,86.9833,
-572,Moussoro,TD,88.14,clear sky,13.6408,16.4901,
-574,Kahului,US,83.84,broken clouds,20.8947,-156.47,
-576,Buala,SB,84.27,broken clouds,-8.145,159.5921,
-577,Ambon,ID,80.74,scattered clouds,-3.6954,128.1814,
-578,Abu Dhabi,AE,89.71,clear sky,24.4667,54.3667,
-581,Kuching,MY,75.42,few clouds,1.55,110.3333,
-582,Port-Gentil,GA,80.56,overcast clouds,-0.7193,8.7815,
-584,Barcarena,BR,80.65,broken clouds,-1.5058,-48.6258,
-586,Kinablangan,PH,76.44,overcast clouds,7.6947,126.5503,
-590,Yaan,NG,77.99,broken clouds,7.3833,8.5667,
-591,Pyu,MM,78.06,overcast clouds,18.4833,96.4333,
-594,Huaicheng,CN,80.74,broken clouds,23.9051,112.1931,
-601,Corpus Christi,US,85.03,broken clouds,27.8006,-97.3964,
-602,Lumut,MY,77.38,few clouds,4.2323,100.6298,
-603,Padang,ID,75.85,overcast clouds,-0.9492,100.3543,
-604,Coari,BR,77.23,broken clouds,-4.085,-63.1414,
-617,Illela,NG,90.57,broken clouds,13.7292,5.2975,
-618,Baherden,TM,90.7,clear sky,38.4362,57.4316,
-626,Kloulklubed,PW,84.06,overcast clouds,7.0419,134.2556,
-630,Acapulco,MX,86.31,overcast clouds,16.8634,-99.8901,
-631,Male,MV,84.15,few clouds,4.1748,73.5089,
-633,Anito,PH,81.82,overcast clouds,12.4497,125.2886,
-645,Bagalkot,IN,77.83,overcast clouds,16.1833,75.7,
-649,Bandar-E Lengeh,IR,90.54,clear sky,26.5579,54.8807,
-653,Punto Fijo,VE,80.01,few clouds,11.6956,-70.1996,
-655,Monte Alegre,BR,77.97,overcast clouds,-2.0078,-54.0692,
-657,Thinadhoo,MV,83.03,few clouds,0.5333,72.9333,
-658,Sinnamary,GF,77.72,broken clouds,5.3833,-52.95,
-659,Kununurra,AU,75.18,broken clouds,-15.7667,128.7333,
-660,Djenne,ML,97.77,broken clouds,13.9061,-4.5533,
-663,Ranong,TH,76.93,overcast clouds,9.9658,98.6348,
-664,El Tigre,VE,81.41,broken clouds,8.8875,-64.2454,
-665,Bara,NG,84.61,broken clouds,10.3744,10.7288,
-666,Vila Velha,BR,76.95,clear sky,-20.3297,-40.2925,
-667,Parakou,BJ,75.36,overcast clouds,9.3372,2.6303,
-668,Meulaboh,ID,75.65,overcast clouds,4.1363,96.1285,
-674,Bartica,GY,79.12,heavy intensity rain,6.4,-58.6167,
-677,Gambela,ET,75.76,clear sky,8.25,34.5833,
-679,Biak,ID,78.85,overcast clouds,-0.9131,122.8766,
-685,Itarema,BR,78.39,clear sky,-2.9248,-39.9167,
-686,Usta Muhammad,PK,93.85,clear sky,28.1794,68.0445,
-687,Labuan,MY,80.76,few clouds,5.2767,115.2417,
-697,Port Blair,IN,81.46,overcast clouds,11.6667,92.75,
-698,Lahaina,US,83.95,broken clouds,20.8783,-156.6825,
-699,Stephenville,US,75.67,overcast clouds,32.2207,-98.2023,
-704,Yazd,IR,82.51,clear sky,31.8972,54.3675,
-717,Abu Zabad,SD,87.84,broken clouds,12.35,29.25,
-721,Moundou,TD,84.45,overcast clouds,8.5667,16.0833,
-723,Pathein,MM,79.7,overcast clouds,16.7833,94.7333,
+Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name,"(723, 'Hotel Name')"
+6,Atuona,PF,79.56,clear sky,-9.8,-139.0333,,New Pammawaddy Hotel
+14,Coahuayana,MX,86.86,broken clouds,18.7333,-103.6833,,New Pammawaddy Hotel
+19,Hithadhoo,MV,83.71,few clouds,-0.6,73.0833,,New Pammawaddy Hotel
+21,Faanui,PF,79.84,overcast clouds,-16.4833,-151.75,,New Pammawaddy Hotel
+23,Avarua,CK,78.85,broken clouds,-21.2078,-159.775,,New Pammawaddy Hotel
+26,Trairi,BR,77.45,clear sky,-3.2778,-39.2689,,New Pammawaddy Hotel
+30,Rikitea,PF,75.34,overcast clouds,-23.1203,-134.9692,,New Pammawaddy Hotel
+31,Ishigaki,JP,80.73,broken clouds,24.3448,124.1572,,New Pammawaddy Hotel
+36,Vung Tau,VN,82.4,scattered clouds,10.345999999999998,107.0843,,New Pammawaddy Hotel
+38,Morant Bay,JM,83.82,broken clouds,17.8815,-76.4093,,New Pammawaddy Hotel
+42,Pandan,PH,84.99,overcast clouds,14.0453,124.1694,,New Pammawaddy Hotel
+53,Gat,IL,81.39,clear sky,31.61,34.7642,,New Pammawaddy Hotel
+60,Kapaa,US,84.52,clear sky,22.0752,-159.319,,New Pammawaddy Hotel
+70,Tamandare,BR,75.4,light rain,-8.7597,-35.1047,,New Pammawaddy Hotel
+73,Juazeiro,BR,75.38,light rain,-9.4117,-40.4986,,New Pammawaddy Hotel
+75,Ambulu,ID,77.31,overcast clouds,-8.345,113.6058,,New Pammawaddy Hotel
+78,Puerto Penasco,MX,76.91,clear sky,31.3167,-113.5333,,New Pammawaddy Hotel
+81,Sitamau,IN,81.75,few clouds,24.0167,75.35,,New Pammawaddy Hotel
+82,Georgetown,MY,80.89,few clouds,5.4112,100.3354,,New Pammawaddy Hotel
+86,Hajipur,IN,75.18,scattered clouds,25.6833,85.2167,,New Pammawaddy Hotel
+92,Anta,IN,90.82,scattered clouds,25.15,76.3,,New Pammawaddy Hotel
+100,Dingle,PH,83.32,broken clouds,10.9995,122.6711,,New Pammawaddy Hotel
+101,Ankang,CN,82.65,overcast clouds,32.68,109.0172,,New Pammawaddy Hotel
+105,Araouane,ML,94.5,clear sky,18.9048,-3.5265,,New Pammawaddy Hotel
+106,Simpang,ID,75.49,broken clouds,-1.2667,104.0833,,New Pammawaddy Hotel
+112,Phan Thiet,VN,82.87,few clouds,10.9333,108.1,,New Pammawaddy Hotel
+115,Tahta,EG,82.72,scattered clouds,26.7693,31.5021,,New Pammawaddy Hotel
+119,Veraval,IN,82.65,scattered clouds,20.9,70.3667,,New Pammawaddy Hotel
+122,Nakusp,CA,78.48,overcast clouds,50.2499,-117.8023,,New Pammawaddy Hotel
+129,Hilo,US,87.28,few clouds,19.7297,-155.09,,New Pammawaddy Hotel
+134,Jalu,LY,81.32,clear sky,29.0331,21.5482,,New Pammawaddy Hotel
+137,Ende,ID,79.07,overcast clouds,-8.8432,121.6623,,New Pammawaddy Hotel
+142,Epe,NG,78.62,overcast clouds,6.5841,3.9834,,New Pammawaddy Hotel
+143,Smoky Lake,CA,77.16,broken clouds,54.1169,-112.4686,,New Pammawaddy Hotel
+145,Bandarbeyla,SO,78.8,overcast clouds,9.4942,50.8122,,New Pammawaddy Hotel
+146,Kavieng,PG,82.6,moderate rain,-2.5744,150.7967,,New Pammawaddy Hotel
+150,Isangel,VU,77.11,broken clouds,-19.55,169.2667,,New Pammawaddy Hotel
+152,Lorengau,PG,82.24,light rain,-2.0226,147.2712,,New Pammawaddy Hotel
+153,Gilbues,BR,75.06,scattered clouds,-9.8317,-45.3439,,New Pammawaddy Hotel
+157,Ahmadpur East,PK,91.51,clear sky,29.1431,71.2598,,New Pammawaddy Hotel
+159,Rio Branco,BR,79.41,scattered clouds,-9.9747,-67.81,,New Pammawaddy Hotel
+164,Baghdad,IQ,87.28,few clouds,33.3406,44.4009,,New Pammawaddy Hotel
+167,Yurimaguas,PE,80.1,overcast clouds,-5.9,-76.0833,,New Pammawaddy Hotel
+168,Avera,US,76.66,clear sky,33.194,-82.5271,,New Pammawaddy Hotel
+173,Gazanjyk,TM,79.81,clear sky,39.2446,55.5154,,New Pammawaddy Hotel
+174,Puerto Cabello,VE,78.84,scattered clouds,10.4731,-68.0125,,New Pammawaddy Hotel
+180,Victoria,HK,86.97,overcast clouds,22.2855,114.1577,,New Pammawaddy Hotel
+181,Lamu,KE,77.22,scattered clouds,-2.2717,40.902,,New Pammawaddy Hotel
+184,Nhulunbuy,AU,75.81,broken clouds,-12.2333,136.7667,,New Pammawaddy Hotel
+189,Iquitos,PE,80.64,light rain,-3.7481,-73.2472,,New Pammawaddy Hotel
+192,Omboue,GA,76.42,overcast clouds,-1.5746,9.2618,,New Pammawaddy Hotel
+196,Dawei,MM,78.46,overcast clouds,14.0833,98.2,,New Pammawaddy Hotel
+203,Tutoia,BR,78.98,few clouds,-2.7619,-42.2744,,New Pammawaddy Hotel
+204,Katobu,ID,79.88,broken clouds,-4.9408,122.5276,,New Pammawaddy Hotel
+205,Zhob,PK,77.92,clear sky,31.3411,69.4481,,New Pammawaddy Hotel
+207,Gamba,GA,76.14,overcast clouds,-2.65,10.0,,New Pammawaddy Hotel
+208,Mana,GF,77.7,overcast clouds,5.6592,-53.7767,,New Pammawaddy Hotel
+210,West Wendover,US,81.61,clear sky,40.7391,-114.0733,,New Pammawaddy Hotel
+217,Canton,CN,84.94,overcast clouds,23.1167,113.25,,New Pammawaddy Hotel
+219,Mayumba,GA,76.41,overcast clouds,-3.432,10.6554,,New Pammawaddy Hotel
+221,Champerico,GT,85.35,scattered clouds,14.3,-91.9167,,New Pammawaddy Hotel
+223,Butaritari,KI,83.07,light rain,3.0707,172.7902,,New Pammawaddy Hotel
+224,Mandera,KE,77.52,broken clouds,3.9366,41.867,,New Pammawaddy Hotel
+226,Loralai,PK,78.8,scattered clouds,30.3705,68.598,,New Pammawaddy Hotel
+228,Barinas,VE,87.84,scattered clouds,8.6226,-70.2075,,New Pammawaddy Hotel
+234,Weligama,LK,80.1,overcast clouds,5.9667,80.4167,,New Pammawaddy Hotel
+237,Cayenne,GF,80.1,clear sky,4.9333,-52.3333,,New Pammawaddy Hotel
+239,San Policarpo,PH,82.4,overcast clouds,12.1791,125.5072,,New Pammawaddy Hotel
+242,Garcia Hernandez,PH,80.92,heavy intensity rain,9.6144,124.2946,,New Pammawaddy Hotel
+243,Paoua,CF,78.19,broken clouds,7.2427,16.4406,,New Pammawaddy Hotel
+246,Jeremie,HT,79.97,few clouds,18.65,-74.1167,,New Pammawaddy Hotel
+250,Alta Floresta,BR,75.02,clear sky,-9.8756,-56.0861,,New Pammawaddy Hotel
+251,Zihuatanejo,MX,86.05,few clouds,17.6333,-101.55,,New Pammawaddy Hotel
+252,Tangping,CN,89.11,overcast clouds,22.0265,111.9323,,New Pammawaddy Hotel
+254,Chiang Khong,TH,75.52,moderate rain,20.2613,100.4046,,New Pammawaddy Hotel
+257,Maragogi,BR,75.15,scattered clouds,-9.0122,-35.2225,,New Pammawaddy Hotel
+258,Puerto Cabezas,NI,85.96,scattered clouds,14.0351,-83.3888,,New Pammawaddy Hotel
+262,Cabo San Lucas,MX,98.51,clear sky,22.8909,-109.9124,,New Pammawaddy Hotel
+263,Portland,US,85.84,broken clouds,45.5234,-122.6762,,New Pammawaddy Hotel
+266,Sabha,LY,85.14,clear sky,27.0377,14.4283,,New Pammawaddy Hotel
+267,Hirara,JP,80.46,broken clouds,24.8,125.2833,,New Pammawaddy Hotel
+271,Dalbandin,PK,85.28,clear sky,28.8947,64.4101,,New Pammawaddy Hotel
+276,Sur,OM,90.41,overcast clouds,22.5667,59.5289,,New Pammawaddy Hotel
+277,Cockburn Town,TC,80.56,scattered clouds,21.4612,-71.1419,,New Pammawaddy Hotel
+286,Sola,VU,77.67,overcast clouds,-13.8833,167.55,,New Pammawaddy Hotel
+287,Nago,JP,77.07,overcast clouds,26.5881,127.9761,,New Pammawaddy Hotel
+292,Fortuna,US,84.18,broken clouds,40.5982,-124.1573,,New Pammawaddy Hotel
+298,Frontera,MX,88.95,broken clouds,26.9333,-101.45,,New Pammawaddy Hotel
+301,Riyadh,SA,91.45,clear sky,24.6877,46.7219,,New Pammawaddy Hotel
+302,Huilong,CN,75.04,overcast clouds,31.8111,121.655,,New Pammawaddy Hotel
+305,Suining,CN,76.86,overcast clouds,30.508000000000003,105.5733,,New Pammawaddy Hotel
+308,Manado,ID,79.57,scattered clouds,1.4869999999999999,124.8455,,New Pammawaddy Hotel
+310,Shache,CN,75.96,overcast clouds,38.4167,77.2406,,New Pammawaddy Hotel
+313,Bathsheba,BB,81.21,scattered clouds,13.2167,-59.5167,,New Pammawaddy Hotel
+316,Leticia,CO,77.05,light rain,-4.2153,-69.9406,,New Pammawaddy Hotel
+317,Sao Jose Da Coroa Grande,BR,75.6,light rain,-8.8978,-35.1478,,New Pammawaddy Hotel
+326,High Rock,BS,82.42,scattered clouds,26.6208,-78.2833,,New Pammawaddy Hotel
+327,Buraydah,SA,93.65,few clouds,26.326,43.975,,New Pammawaddy Hotel
+329,Rosetta,EG,76.82,clear sky,31.4044,30.4164,,New Pammawaddy Hotel
+331,Lompoc,US,82.02,clear sky,34.6391,-120.4579,,New Pammawaddy Hotel
+336,San Jose,US,99.27,few clouds,37.3394,-121.895,,New Pammawaddy Hotel
+340,Soure,BR,78.62,few clouds,-0.7167,-48.5233,,New Pammawaddy Hotel
+341,Luba,GQ,80.49,moderate rain,3.4568,8.5547,,New Pammawaddy Hotel
+342,Auki,SB,84.49,broken clouds,-8.7676,160.7034,,New Pammawaddy Hotel
+347,Morgan City,US,80.98,broken clouds,29.6994,-91.2068,,New Pammawaddy Hotel
+351,Pasuruan,ID,78.69,broken clouds,-7.6453,112.9075,,New Pammawaddy Hotel
+353,Macheng,CN,77.68,overcast clouds,31.1783,115.0319,,New Pammawaddy Hotel
+355,Tala,EG,77.36,clear sky,30.6803,30.9429,,New Pammawaddy Hotel
+357,Grand-Bourg,GP,80.55,clear sky,15.8835,-61.3148,,New Pammawaddy Hotel
+358,Arraial Do Cabo,BR,75.06,heavy intensity rain,-22.9661,-42.0278,,New Pammawaddy Hotel
+359,Nabire,ID,80.94,overcast clouds,-3.3667,135.4833,,New Pammawaddy Hotel
+361,Tual,ID,81.61,overcast clouds,-5.6667,132.75,,New Pammawaddy Hotel
+370,Isla Vista,US,82.26,clear sky,34.4133,-119.861,,New Pammawaddy Hotel
+371,Abu Kamal,SY,79.36,scattered clouds,34.4506,40.9171,,New Pammawaddy Hotel
+372,Robertsport,LR,79.81,moderate rain,6.7533,-11.3686,,New Pammawaddy Hotel
+375,Canutama,BR,80.94,overcast clouds,-6.5339,-64.3831,,New Pammawaddy Hotel
+384,Dzilam Gonzalez,MX,76.77,broken clouds,21.2833,-88.9333,,New Pammawaddy Hotel
+387,Alexandria,EG,79.34,clear sky,31.2156,29.9553,,New Pammawaddy Hotel
+393,Palauig,PH,86.09,few clouds,15.435,119.9045,,New Pammawaddy Hotel
+395,Kavaratti,IN,82.4,overcast clouds,10.5669,72.642,,New Pammawaddy Hotel
+397,Haikou,CN,84.33,light rain,20.0458,110.3417,,New Pammawaddy Hotel
+399,Wamba,NG,79.14,scattered clouds,8.9333,8.6,,New Pammawaddy Hotel
+403,Do Gonbadan,IR,75.29,clear sky,30.3586,50.7981,,New Pammawaddy Hotel
+404,Chinchani,IN,83.28,broken clouds,19.8667,72.7,,New Pammawaddy Hotel
+409,Durango,MX,86.61,broken clouds,24.8333,-104.8333,,New Pammawaddy Hotel
+411,Rudbar,AF,84.06,clear sky,30.15,62.6,,New Pammawaddy Hotel
+414,Makakilo City,US,83.95,broken clouds,21.3469,-158.0858,,New Pammawaddy Hotel
+416,Matara,LK,79.84,overcast clouds,5.9485,80.5353,,New Pammawaddy Hotel
+424,Abeche,TD,86.11,broken clouds,13.8292,20.8324,,New Pammawaddy Hotel
+425,Batticaloa,LK,79.5,broken clouds,7.7102,81.6924,,New Pammawaddy Hotel
+426,Kutum,SD,83.35,overcast clouds,14.2,24.6667,,New Pammawaddy Hotel
+427,Mogadishu,SO,78.21,broken clouds,2.0371,45.3438,,New Pammawaddy Hotel
+431,Waw,SS,77.99,few clouds,7.7029,27.9953,,New Pammawaddy Hotel
+434,Salalah,OM,80.24,overcast clouds,17.0151,54.0924,,New Pammawaddy Hotel
+438,Pontianak,ID,75.18,scattered clouds,-0.0333,109.3333,,New Pammawaddy Hotel
+439,Winder,US,76.14,scattered clouds,33.9926,-83.7202,,New Pammawaddy Hotel
+440,Mongo,TD,89.04,clear sky,12.1844,18.692999999999998,,New Pammawaddy Hotel
+442,Bonthe,SL,78.89,light rain,7.5264,-12.505,,New Pammawaddy Hotel
+443,Kupang,ID,77.58,scattered clouds,-10.1667,123.5833,,New Pammawaddy Hotel
+444,Tautira,PF,82.42,overcast clouds,-17.7333,-149.15,,New Pammawaddy Hotel
+445,Namatanai,PG,84.06,light rain,-3.6667,152.4333,,New Pammawaddy Hotel
+446,Altamira,BR,77.25,scattered clouds,-3.2033,-52.2064,,New Pammawaddy Hotel
+454,Gainesville,US,87.67,overcast clouds,29.6516,-82.3248,,New Pammawaddy Hotel
+456,Pochutla,MX,80.82,broken clouds,15.7432,-96.4661,,New Pammawaddy Hotel
+461,Sinjar,IQ,75.99,clear sky,36.3209,41.8754,,New Pammawaddy Hotel
+464,Jucurutu,BR,80.55,broken clouds,-6.0339,-37.0203,,New Pammawaddy Hotel
+465,Adre,TD,84.33,broken clouds,13.4667,22.2,,New Pammawaddy Hotel
+468,San Cristobal,VE,75.38,scattered clouds,7.7669,-72.225,,New Pammawaddy Hotel
+469,Mitsamiouli,KM,78.48,light rain,-11.3847,43.2844,,New Pammawaddy Hotel
+470,Adrar,MR,87.84,overcast clouds,20.5022,-10.0711,,New Pammawaddy Hotel
+473,Tucurui,BR,80.58,broken clouds,-3.7661,-49.6725,,New Pammawaddy Hotel
+477,Cortez,US,82.51,scattered clouds,37.3489,-108.5859,,New Pammawaddy Hotel
+481,Bushehr,IR,85.15,clear sky,28.9684,50.8385,,New Pammawaddy Hotel
+482,Labuhan,ID,78.78,light rain,-6.8844,112.2051,,New Pammawaddy Hotel
+483,Axim,GH,78.53,moderate rain,4.8699,-2.2405,,New Pammawaddy Hotel
+484,Hobyo,SO,78.44,broken clouds,5.3505,48.5268,,New Pammawaddy Hotel
+485,Paraopeba,BR,76.35,overcast clouds,-19.2757,-44.4033,,New Pammawaddy Hotel
+486,Paragominas,BR,79.02,overcast clouds,-2.9667,-47.4833,,New Pammawaddy Hotel
+488,Moose Factory,CA,77.0,clear sky,51.2585,-80.6094,,New Pammawaddy Hotel
+491,Saint George,US,95.47,clear sky,37.1041,-113.5841,,New Pammawaddy Hotel
+492,Raymondville,US,87.6,broken clouds,26.4815,-97.7831,,New Pammawaddy Hotel
+494,Mersing,MY,76.91,broken clouds,2.4312,103.8405,,New Pammawaddy Hotel
+496,Hurghada,EG,78.84,clear sky,27.2574,33.8129,,New Pammawaddy Hotel
+500,Ambagarh Chauki,IN,84.96,few clouds,20.7833,80.7167,,New Pammawaddy Hotel
+505,Ahuimanu,US,85.14,scattered clouds,21.4447,-157.8378,,New Pammawaddy Hotel
+511,Sao Tome,ST,79.36,overcast clouds,0.3365,6.7273,,New Pammawaddy Hotel
+512,Tabuk,PH,84.38,broken clouds,17.4189,121.4443,,New Pammawaddy Hotel
+516,Kudahuvadhoo,MV,83.61,scattered clouds,2.6708,72.8944,,New Pammawaddy Hotel
+525,Srivardhan,IN,82.08,overcast clouds,18.0333,73.0167,,New Pammawaddy Hotel
+528,Touros,BR,77.9,broken clouds,-5.1989,-35.4608,,New Pammawaddy Hotel
+531,San Patricio,US,84.88,scattered clouds,28.017,-97.5169,,New Pammawaddy Hotel
+534,Kidal,ML,92.05,broken clouds,18.4411,1.4078,,New Pammawaddy Hotel
+536,Kokoda,PG,81.81,overcast clouds,-8.8785,147.7407,,New Pammawaddy Hotel
+538,Bilma,NE,88.99,broken clouds,18.6853,12.9164,,New Pammawaddy Hotel
+539,Kalmunai,LK,79.45,broken clouds,7.4167,81.8167,,New Pammawaddy Hotel
+541,Lazaro Cardenas,MX,85.21,broken clouds,17.9583,-102.2,,New Pammawaddy Hotel
+544,Alofi,NU,84.09,light rain,-19.0595,-169.9187,,New Pammawaddy Hotel
+550,Atar,MR,91.38,broken clouds,20.5169,-13.0499,,New Pammawaddy Hotel
+557,Aquiraz,BR,82.18,few clouds,-3.9014,-38.3911,,New Pammawaddy Hotel
+559,Sorong,ID,79.23,overcast clouds,-0.8833,131.25,,New Pammawaddy Hotel
+561,Barsi,IN,79.48,broken clouds,18.2333,75.7,,New Pammawaddy Hotel
+562,Elko,US,77.05,clear sky,41.0002,-115.5012,,New Pammawaddy Hotel
+568,Jhargram,IN,82.92,scattered clouds,22.45,86.9833,,New Pammawaddy Hotel
+572,Moussoro,TD,88.14,clear sky,13.6408,16.4901,,New Pammawaddy Hotel
+574,Kahului,US,83.84,broken clouds,20.8947,-156.47,,New Pammawaddy Hotel
+576,Buala,SB,84.27,broken clouds,-8.145,159.5921,,New Pammawaddy Hotel
+577,Ambon,ID,80.74,scattered clouds,-3.6954,128.1814,,New Pammawaddy Hotel
+578,Abu Dhabi,AE,89.71,clear sky,24.4667,54.3667,,New Pammawaddy Hotel
+581,Kuching,MY,75.42,few clouds,1.55,110.3333,,New Pammawaddy Hotel
+582,Port-Gentil,GA,80.56,overcast clouds,-0.7193,8.7815,,New Pammawaddy Hotel
+584,Barcarena,BR,80.65,broken clouds,-1.5058,-48.6258,,New Pammawaddy Hotel
+586,Kinablangan,PH,76.44,overcast clouds,7.6947,126.5503,,New Pammawaddy Hotel
+590,Yaan,NG,77.99,broken clouds,7.3833,8.5667,,New Pammawaddy Hotel
+591,Pyu,MM,78.06,overcast clouds,18.4833,96.4333,,New Pammawaddy Hotel
+594,Huaicheng,CN,80.74,broken clouds,23.9051,112.1931,,New Pammawaddy Hotel
+601,Corpus Christi,US,85.03,broken clouds,27.8006,-97.3964,,New Pammawaddy Hotel
+602,Lumut,MY,77.38,few clouds,4.2323,100.6298,,New Pammawaddy Hotel
+603,Padang,ID,75.85,overcast clouds,-0.9492,100.3543,,New Pammawaddy Hotel
+604,Coari,BR,77.23,broken clouds,-4.085,-63.1414,,New Pammawaddy Hotel
+617,Illela,NG,90.57,broken clouds,13.7292,5.2975,,New Pammawaddy Hotel
+618,Baherden,TM,90.7,clear sky,38.4362,57.4316,,New Pammawaddy Hotel
+626,Kloulklubed,PW,84.06,overcast clouds,7.0419,134.2556,,New Pammawaddy Hotel
+630,Acapulco,MX,86.31,overcast clouds,16.8634,-99.8901,,New Pammawaddy Hotel
+631,Male,MV,84.15,few clouds,4.1748,73.5089,,New Pammawaddy Hotel
+633,Anito,PH,81.82,overcast clouds,12.4497,125.2886,,New Pammawaddy Hotel
+645,Bagalkot,IN,77.83,overcast clouds,16.1833,75.7,,New Pammawaddy Hotel
+649,Bandar-E Lengeh,IR,90.54,clear sky,26.5579,54.8807,,New Pammawaddy Hotel
+653,Punto Fijo,VE,80.01,few clouds,11.6956,-70.1996,,New Pammawaddy Hotel
+655,Monte Alegre,BR,77.97,overcast clouds,-2.0078,-54.0692,,New Pammawaddy Hotel
+657,Thinadhoo,MV,83.03,few clouds,0.5333,72.9333,,New Pammawaddy Hotel
+658,Sinnamary,GF,77.72,broken clouds,5.3833,-52.95,,New Pammawaddy Hotel
+659,Kununurra,AU,75.18,broken clouds,-15.7667,128.7333,,New Pammawaddy Hotel
+660,Djenne,ML,97.77,broken clouds,13.9061,-4.5533,,New Pammawaddy Hotel
+663,Ranong,TH,76.93,overcast clouds,9.9658,98.6348,,New Pammawaddy Hotel
+664,El Tigre,VE,81.41,broken clouds,8.8875,-64.2454,,New Pammawaddy Hotel
+665,Bara,NG,84.61,broken clouds,10.3744,10.7288,,New Pammawaddy Hotel
+666,Vila Velha,BR,76.95,clear sky,-20.3297,-40.2925,,New Pammawaddy Hotel
+667,Parakou,BJ,75.36,overcast clouds,9.3372,2.6303,,New Pammawaddy Hotel
+668,Meulaboh,ID,75.65,overcast clouds,4.1363,96.1285,,New Pammawaddy Hotel
+674,Bartica,GY,79.12,heavy intensity rain,6.4,-58.6167,,New Pammawaddy Hotel
+677,Gambela,ET,75.76,clear sky,8.25,34.5833,,New Pammawaddy Hotel
+679,Biak,ID,78.85,overcast clouds,-0.9131,122.8766,,New Pammawaddy Hotel
+685,Itarema,BR,78.39,clear sky,-2.9248,-39.9167,,New Pammawaddy Hotel
+686,Usta Muhammad,PK,93.85,clear sky,28.1794,68.0445,,New Pammawaddy Hotel
+687,Labuan,MY,80.76,few clouds,5.2767,115.2417,,New Pammawaddy Hotel
+697,Port Blair,IN,81.46,overcast clouds,11.6667,92.75,,New Pammawaddy Hotel
+698,Lahaina,US,83.95,broken clouds,20.8783,-156.6825,,New Pammawaddy Hotel
+699,Stephenville,US,75.67,overcast clouds,32.2207,-98.2023,,New Pammawaddy Hotel
+704,Yazd,IR,82.51,clear sky,31.8972,54.3675,,New Pammawaddy Hotel
+717,Abu Zabad,SD,87.84,broken clouds,12.35,29.25,,New Pammawaddy Hotel
+721,Moundou,TD,84.45,overcast clouds,8.5667,16.0833,,New Pammawaddy Hotel
+723,Pathein,MM,79.7,overcast clouds,16.7833,94.7333,,New Pammawaddy Hotel
